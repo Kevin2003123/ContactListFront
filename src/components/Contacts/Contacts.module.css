@@ -1,0 +1,46 @@
+.contacts {
+    margin: 2rem;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+  }
+  
+  .id {
+    width: 50px;
+    text-align: center;
+  }
+  
+  .name {
+    width: 120px;
+    text-align: center;
+  }
+  
+  .lastName {
+    width: 120px;
+    text-align: center;
+  }
+  
+  .cellphone {
+    width: 120px;
+    text-align: center;
+  }
+  
+  .email {
+    width: 200px;
+    text-align: center;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+  }
