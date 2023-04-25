@@ -13,7 +13,7 @@ const Navbar = () => {
         const order = document.getElementById('order').value
         if(filter)dispatch(searchContacts(page,search,order,sort))
         else dispatch(getContacts(page,order,sort))
-      }, [page,dispatch,filter,search]);
+      }, [page,dispatch,filter]);
     
     
     const sortHandler = (e)=>{
