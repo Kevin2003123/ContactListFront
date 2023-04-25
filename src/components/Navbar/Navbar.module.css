@@ -41,6 +41,7 @@
     border: none;
     background-color: #999;
     color: #fff;
+    cursor: pointer
   }
   
   .buttonContainer {
@@ -54,6 +55,7 @@
     border: none;
     background-color: #999;
     color: #fff;
+    cursor: pointer;
   }
   
   
